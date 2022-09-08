@@ -1,4 +1,4 @@
-getgenv().Main = https://raw.githubusercontent.com/sammoloto5/Aimbot3/main/Main"))()
+getgenv().Main = https://raw.githubusercontent.com/sammoloto5/Aimbot3/main/Main
 
 local camera = game:GetService("Workspace").CurrentCamera 
 local Plr = game:GetService("Players").LocalPlayer
